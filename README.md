@@ -1,9 +1,7 @@
 ### Hi there!안녕하세요.... 
 Assalamualaikum Warahmatullahi Wabarokatu👋
 
-**IrsalinaFathimah/IrsalinaFathimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨ _Welcome to My Github_ ✨ 
 
 - 🔭 I’m currently working at [Schoters](https://www.schoters.com/id)
 - ✨ The projects that I'm working: content creator on Youtube, Instagram and Spotify.
