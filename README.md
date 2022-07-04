@@ -44,8 +44,8 @@ Assalamualaikum Warahmatullahi Wabarokatu👋
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/irsalina-fathimah/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](Instagram.com/Ukt.fathimah)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](Instagram.com/Ukt.fathimah#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/Ukt.fathimah#gh-dark-mode-only)
 
 
 
